@@ -1,0 +1,76 @@
+{
+  "runs": [
+    {
+      "id": 1,
+      "title": "My first run",
+      "startedOn": "2016-01-01T00:00:00.000Z",
+      "completedOn": "2016-01-01T01:00:00.000Z",
+      "miles": 2,
+      "location": "INDOOR"
+    },
+    {
+      "id": 2,
+      "title": "My second run",
+      "startedOn": "2016-01-01T00:00:00.000Z",
+      "completedOn": "2016-01-01T01:00:00.000Z",
+      "miles": 3,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 3,
+      "title": "My third run",
+      "startedOn": "2016-01-01T00:00:00.000Z",
+      "completedOn": "2016-01-01T01:00:00.000Z",
+      "miles": 4,
+      "location": "INDOOR"
+    },
+    {
+      "id": 4,
+      "title": "My fourth run",
+      "startedOn": "2016-01-01T00:00:00.000Z",
+      "completedOn": "2016-01-01T01:00:00.000Z",
+      "miles": 5,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 5,
+      "title": "My fifth run",
+      "startedOn": "2016-01-01T00:00:00.000Z",
+      "completedOn": "2016-01-01T01:00:00.000Z",
+      "miles": 6,
+      "location": "INDOOR"
+    },
+    {
+      "id": 6,
+      "title": "My sixth run",
+      "startedOn": "2016-01-01T00:00:00.000Z",
+      "completedOn": "2016-01-01T01:00:00.000Z",
+      "miles": 7,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 7,
+      "title": "My seventh run",
+      "startedOn": "2016-01-01T00:00:00.000Z",
+      "completedOn": "2016-01-01T01:00:00.000Z",
+      "miles": 8,
+      "location": "INDOOR"
+    },
+    {
+      "id": 8,
+      "title": "My eighth run",
+      "startedOn": "2016-01-01T00:00:00.000Z",
+      "completedOn": "2016-01-01T01:00:00.000Z",
+      "miles": 9,
+      "location": "OUTDOOR"
+    },
+    {
+      "id": 9,
+      "title": "My ninth run",
+      "startedOn": "2016-01-01T00:00:00.000Z",
+      "completedOn": "2016-01-01T01:00:00.000Z",
+      "miles": 10,
+      "location": "INDOOR"
+    }
+  ]
+}
